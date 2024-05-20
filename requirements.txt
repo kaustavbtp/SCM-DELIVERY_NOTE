@@ -1,0 +1,7 @@
+streamlit==1.34.0
+psycopg2
+fpdf
+pandas
+opencv-python
+pyzbar
+python-dotenv
